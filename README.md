@@ -14,12 +14,16 @@ This repository serves as the main hub for all data analytics projects completed
 - Repository: Industrial-Training-EDA-Project-2
 - Focus: Exploratory Data Analysis (EDA)
 
-  ### Project 3:
+### Project 3: Industrial Training SQL Queries
+- Repository: Industrial-Training-SQL-Queries-Project-3
+- Focus: SQL querying, data analysis, KPI generation, and business intelligence reporting
 
 ## Tools Used
 - Microsoft Excel
+- SQL
 - Data Cleaning Techniques
 - Pivot Tables
+- Charts and Visualizations
 - Dashboard Design
 
 ## Full Projects
