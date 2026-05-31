@@ -1,5 +1,5 @@
 # DecodeLab-Internship
-Data Analytics internship portfolio containing portfolio containing structured projects, dashboards, and exploratory data analysis work completed using Excel and data visualization techniques
+Data Analytics internship portfolio containing structured projects, dashboards, and exploratory data analysis work completed using Excel, data visualization techniques and SQL
 # DecodeLab Internship Portfolio
 
 This repository serves as the main hub for all data analytics projects completed during the DecodeLab Internship program.
@@ -13,6 +13,8 @@ This repository serves as the main hub for all data analytics projects completed
 ### Project 2: Industrial Training EDA
 - Repository: Industrial-Training-EDA-Project-2
 - Focus: Exploratory Data Analysis (EDA)
+
+  ### Project 3:
 
 ## Tools Used
 - Microsoft Excel
